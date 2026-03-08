@@ -1,4 +1,5 @@
 Algorithmic Strategy Generation System (ASGS)
+==================================================
 Project Overview
 
 The Algorithmic Strategy Generation System (ASGS) is a system designed to analyze algorithmic problem statements and generate the most suitable problem-solving strategy through structured reasoning. Instead of producing executable code, the system focuses on identifying the correct algorithmic approach and explaining the reasoning behind it.
